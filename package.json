@@ -19,7 +19,8 @@
     "test": "react-scripts test",
     "test-cover": "react-scripts test --coverage",
     "precommit": "lint-staged",
-    "eslint": "node_modules/.bin/eslint src/"
+    "eslint": "node_modules/.bin/eslint src/",
+    "flow": "flow"
   },
   "browserslist": [
     ">0.2%",
@@ -33,6 +34,7 @@
     "eslint-config-prettier": "^3.3.0",
     "eslint-plugin-prettier": "^3.0.0",
     "eslint-plugin-react": "^7.11.1",
+    "flow-bin": "^0.89.0",
     "husky": "^1.2.1",
     "lint-staged": "^8.1.0",
     "prettier": "^1.15.3"
