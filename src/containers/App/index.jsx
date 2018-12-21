@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from "react"
 
-class App extends Component {
+export class App extends Component {
 
   render() {
     return (
@@ -10,5 +10,3 @@ class App extends Component {
     )
   }
 }
-
-export default App

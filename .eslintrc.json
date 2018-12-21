@@ -1,9 +1,12 @@
 {
   "extends": [
+    "airbnb",
     "react-app",
     "prettier"
   ],
-  "rules": {},
+  "rules": {
+    "linebreak-style": 0
+  },
   "plugins": [
     "prettier"
   ]
