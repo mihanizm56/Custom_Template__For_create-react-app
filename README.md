@@ -1,8 +1,8 @@
 
-Основные команды:
+Основные команды: /b
 
-"npm run start" - классический старт проекта
-"npm run build" - сборка проекта (нет настройки)
+"npm run start" - классический старт проекта /b
+"npm run build" - сборка проекта (нет настройки) /b
 "npm run test" - запуск тестов (jest & enzyme are used)
 "npm run test-cover" - запуск покрытия тестов (jest & enzyme are used)
 "npm run eslint" - запуск проверки линтера (eslint & airbnb are used)
